@@ -14,7 +14,7 @@ InitializingScript=
 FinalizingScript=
 OverwriteDuplicates=True
 CommitCount=100
-EmptyTable=False
+EmptyTable=True
 
 [ODBC]
 DSN=

@@ -15,6 +15,7 @@
 15.p102数据源编码和schemaid一致问题
 16.之前继远调人过来的解决的是哪方面的问题
 17.修改前你如何保存副本的问题
+18.哪些表需要导，大部分一个月一次？
 
 
 Q&A
@@ -27,7 +28,29 @@ Q&A
 密码：
 办公电脑：yyjc@508
 展示电脑：admin,123
+10.234.17.174
+user/yyjc@610
+admin,123
 
+tableau db:
+10.234.5.105
+administrator/1234qwer.
+oracle:visu/visu
+
+tableau server:
+10.234.252.246
+guanliyuan/YYJC@123
+tableau:yyjc/yyjc123
+
+
+ksh
+静态库：10.234.252.246
+administrator/admin,123
+db:visu20130413/visu#yyjc
+
+动态库：10.234.9.137
+administrator/yyjc@610
+visu/visu21#yyjc
 
 -------------------
 Note
@@ -76,7 +99,7 @@ Note
 	图形
 		新增图形
 		
-13.tableu
+13.tableu 
 	注意所有维度类型格式
 
 
@@ -91,7 +114,7 @@ Note
 17.shift+F5预览刷新
 
 
-
+18
 
 
 
