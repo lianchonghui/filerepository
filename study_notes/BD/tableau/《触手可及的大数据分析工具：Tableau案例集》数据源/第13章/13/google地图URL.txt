@@ -1,0 +1,1 @@
+http://ditu.google.cn/maps?q=d&source=s_d&saddr="Guangzhou"&daddr=<目的城市（拼音）>&ie=UTF8&output=embed&layer
